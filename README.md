@@ -31,6 +31,8 @@
 <a href="https://dev.to/https://github.com/daksh-134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/daksh-134" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daksh-baweja-6a503024a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daksh-baweja-6a503024a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/dakshbaweja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dakshbaweja/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/daksh321" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFtDsTEfs3adnrB-FjulnTaSH6mMoP_7ea_g&s" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dakshbaweja" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcv_WJfqB-tC3ZFADRoUMMMTtOA6ZzyAA6g&s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,3 +54,5 @@
 <a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/DakshBaweja?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css"/></a>
 </p>
 </div>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
