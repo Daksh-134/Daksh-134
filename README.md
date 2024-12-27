@@ -14,15 +14,17 @@
 
 - 📝 I am a pre final year student at **NSUT**
 
-<a href="https://dakshportfolio.vercel.app/">
-  <table align="right">
-      <tr>
-          <td href="https://dakshportfolio.vercel.app/">
-            👉 &nbsp;&nbsp;Visit my portfolio
-          </td>
-      </tr>
-  </table>
+
+<a href="https://dakshportfolio.vercel.app/" target="_blank">
+<table align="right">
+  <tr>
+    <td>
+        👉 &nbsp;&nbsp;Visit my portfolio
+    </td>
+  </tr>
+</table>
 </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
