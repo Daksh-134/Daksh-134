@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi 👋, I'm Daksh Baweja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullsack developer from India. Open to any remote jobs,internships or projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh-134&label=Profile%20views&color=0e75b6&style=flat" alt="daksh-134" /> </p>
 
