@@ -4,13 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh-134&label=Profile%20views&color=0e75b6&style=flat" alt="daksh-134" /> </p>
 
+- 😄 Pronouns: He/Him.
+  
 - 🌱 I’m currently working on multiple projects using **Next JS and MERN stack**
-
-- 👨‍💻 All of my projects are available at [https://dakshportfolio.vercel.app/](https://dakshportfolio.vercel.app/)
 
 - 📫 How to reach me **dbaweja2005@gmail.com**
 
+- 🤝 Open to collaborate on Full Stack Web Dev Projects
+
 - 📝 I am a pre final year student at **NSUT**
+
+<a href="https://dakshportfolio.vercel.app/">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Visit my portfolio
+          </td>
+      </tr>
+  </table>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
