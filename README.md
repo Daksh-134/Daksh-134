@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh-134&label=Profile%20views&color=0e75b6&style=flat" alt="daksh-134" /> </p>
 
-- 🌱 I’m currently learning **Next JS and TypeScript**
+- 🌱 I’m currently working on multiple projects using **Next JS and MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://dakshportfolio.vercel.app/](https://dakshportfolio.vercel.app/)
 
