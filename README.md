@@ -17,7 +17,7 @@
 <a href="https://dakshportfolio.vercel.app/">
   <table align="right">
       <tr>
-          <td>
+          <td href="https://dakshportfolio.vercel.app/">
             👉 &nbsp;&nbsp;Visit my portfolio
           </td>
       </tr>
